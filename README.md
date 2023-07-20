@@ -1,6 +1,6 @@
 ### Hi there ~ <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="24px" alt="hi">
 
-I'm Backend Software Engineer. Specialize in creating robust and scalable applications using cutting-edge technologies.
+I'm *Backend Software Engineer*. Specialize in creating robust and scalable applications using cutting-edge technologies.
 
 <p>
   <a href="https://skillicons.dev">
