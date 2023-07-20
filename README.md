@@ -2,6 +2,13 @@
 
 I'm Backend Software Engineer. Specialize in creating robust and scalable applications using cutting-edge technologies.
 
+<p>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=go,py,mysql,postgres,postman,redis,docker,kubernetes,vscode,github,git,aws" width=500/>
+  </a>
+</p>
+
+
 Let's connect and explore the world of backend development together. Happy coding! 🚀
 
 <a href="https://twitter.com/initdotpy">
