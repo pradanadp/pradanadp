@@ -4,7 +4,7 @@ I'm *Backend Software Engineer*. Specialize in creating robust and scalable appl
 
 <p>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=go,py,mysql,postgres,postman,redis,docker,kubernetes,vscode,github,git,aws" width=500/>
+    <img src="https://skillicons.dev/icons?i=go,py,mysql,postgres,postman,redis,docker,kubernetes,vscode,github,git,aws&theme=light" width=500/>
   </a>
 </p>
 
