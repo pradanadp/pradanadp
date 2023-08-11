@@ -14,7 +14,7 @@ Let's connect and explore the world of backend development together. Happy codin
 <a href="https://twitter.com/initdotpy">
   <img align="left" alt="Dimas's Twitter" width="20px" src="https://simpleicons.now.sh/twitter/495f7e" />
 </a>
-<a href="https://www.instagram.com/initdotpy">
+<a href="https://www.instagram.com/">
   <img align="left" alt="Dimas's Instagram" width="20px" src="https://simpleicons.now.sh/instagram/495f7e" />
 </a>
 <a href="https://linkedin.com/in/dimaspradana">
