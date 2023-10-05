@@ -11,7 +11,7 @@ I'm *Backend Software Engineer*. Specialize in creating robust and scalable appl
 
 Let's connect and explore the world of backend development together. Happy coding! 🚀
 
-<a href="https://twitter.com/initdotpy">
+<a href="https://twitter.com/">
   <img align="left" alt="Dimas's Twitter" width="20px" src="https://simpleicons.now.sh/twitter/495f7e" />
 </a>
 <a href="https://www.instagram.com/">
